@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "name": "sdf",
+      "grade": "4th",
+      "gender": "Male",
+      "phone": 654,
+      "email": "Nathan@yesenia.net",
+      "id": 1
+    }
+  ]
+}
